@@ -1,0 +1,9 @@
+localhost:2020
+gzip
+log ./access.log
+
+markdown / {
+  ext .md .txt
+}
+
+websocket /echo cat
