@@ -1773,7 +1773,7 @@ ul#filters > .active > span {
 .parallax1 {
     /*background: url("../img/flat_parallax.jpg") no-repeat fixed 0 0 #327CE9;*/
     /*background: url("../img/dev.jpg") no-repeat fixed 0 0 #327CE9;*/
-    background: url("../img/main_2.png") no-repeat fixed 0 0 #327CE9;
+    background: url("../img/main_2.jpg") no-repeat fixed 0 0 #327CE9;
     background-size:cover;
     width: 100%;
     min-height: 500px;
